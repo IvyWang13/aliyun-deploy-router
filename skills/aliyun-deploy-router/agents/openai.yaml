@@ -1,0 +1,4 @@
+interface:
+  display_name: "阿里云部署路由"
+  short_description: "自动选择部署 Skill、排查 GitHub issues，修复后验证上线结果"
+  default_prompt: "用 $aliyun-deploy-router 帮我选择适合这个项目的阿里云部署方案，遇到错误查 GitHub issues 并修复，最后验证访问和功能。"
